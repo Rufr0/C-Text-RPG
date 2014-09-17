@@ -1,0 +1,5 @@
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.Csharp/CsharpRPG/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.Csharp/CsharpRPG/bin/Debug/CsharpRPG.exe.mdb
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.Csharp/CsharpRPG/bin/Debug/CsharpRPG.exe
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.Csharp/CsharpRPG/obj/x86/Debug/CsharpRPG.exe
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.Csharp/CsharpRPG/obj/x86/Debug/CsharpRPG.exe.mdb
