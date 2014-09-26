@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpRPG", "CsharpRPG\CsharpRPG.csproj", "{60AF3E81-4FF1-4A14-9B92-61D712CFCE22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpTesting", "CsharpRPG\CsharpTesting.csproj", "{60AF3E81-4FF1-4A14-9B92-61D712CFCE22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,6 @@ Global
 		{60AF3E81-4FF1-4A14-9B92-61D712CFCE22}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = CsharpRPG\CsharpRPG.csproj
+		StartupItem = CsharpRPG\CsharpTesting.csproj
 	EndGlobalSection
 EndGlobal
